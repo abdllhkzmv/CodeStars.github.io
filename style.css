@@ -211,13 +211,13 @@
 .bg2 .hoc h2{
   position: absolute;
   left: 15%;
-  top: 100%;
+  top: 110%;
   color: white;
 }
 .bg2 .hoc img{
   position:absolute;
   left: 25%;
-  top: 110%;
+  top: 120%;
 }
 .bg2 button{
   position: absolute;
@@ -242,24 +242,24 @@
 .bg2 .website h2{
   position: absolute;
   left: 15%;
-  top: 170%;
+  top: 180%;
   color: white;
 }
 .bg2 .website img{
   position:absolute;
   left: 25%;
-  top: 180%;
+  top: 190%;
 }
 .bg2 .website p{
   color: white;
   position: absolute;
   left: 25%;
-  top: 223%;
+  top: 233%;
 }
 .bg2 .lego h2{
   position: absolute;
   left: 15%;
-  top: 233%;
+  top: 243%;
   color: white;
 }
 .picl img{
@@ -270,13 +270,13 @@
 .bg2 .lego img{
   position:absolute;
   left: 25%;
-  top: 243%;
+  top: 253%;
 }
 .bg2 .lego p{
   color: white;
   position:absolute;
   left: 25%;
-  top: 285%;
+  top: 295%;
 }
 .quiz2{
   font-size: 30px;
