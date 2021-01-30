@@ -211,13 +211,13 @@
 .bg2 .hoc h2{
   position: absolute;
   left: 15%;
-  top: 120%;
+  top: 110%;
   color: white;
 }
 .bg2 .hoc img{
   position:absolute;
   left: 25%;
-  top: 130%;
+  top: 120%;
 }
 .bg2 button{
   position: absolute;
@@ -228,7 +228,7 @@
   color: white;
   position: absolute;
   left: 25%;
-  top: 180%;
+  top: 170%;
 }
 .hoc a{
   color: white;
@@ -242,7 +242,7 @@
 .bg2 .website h2{
   position: absolute;
   left: 15%;
-  top: 190%;
+  top: 180%;
   color: white;
 }
 .bg2 .website img{
@@ -254,24 +254,24 @@
   color: white;
   position: absolute;
   left: 25%;
-  top: 245%;
+  top: 235%;
 }
 .bg2 .lego h2{
   position: absolute;
   left: 15%;
-  top: 248%;
+  top: 238%;
   color: white;
 }
 .bg2 .lego img{
   position:absolute;
   left: 25%;
-  top: 258%;
+  top: 248%;
 }
 .bg2 .lego p{
   color: white;
   position:absolute;
   left: 25%;
-  top: 287%;
+  top: 295%;
 }
 .picl img{
   position: absolute;
