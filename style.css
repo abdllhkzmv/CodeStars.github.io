@@ -259,24 +259,24 @@
 .bg2 .lego h2{
   position: absolute;
   left: 15%;
-  top: 253%;
+  top: 248%;
   color: white;
-}
-.picl img{
-  position: absolute;
-  top: 135%;
-  left: 5%;
 }
 .bg2 .lego img{
   position:absolute;
   left: 25%;
-  top: 263%;
+  top: 258%;
 }
 .bg2 .lego p{
   color: white;
   position:absolute;
   left: 25%;
-  top: 295%;
+  top: 287%;
+}
+.picl img{
+  position: absolute;
+  top: 135%;
+  left: 5%;
 }
 .quiz2{
   font-size: 30px;
